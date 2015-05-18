@@ -1,4 +1,4 @@
-APFEL_Hadcon
+##APFEL Hadcon - Controlling the APFEL via HadCon2
 
 This project comprises all submodules which are necessary to control the APFEL ASIC connected to an HadCon2 board,
 which itself is connected to a linux PC (Raspberry PI) running an EPICS IOC.
@@ -10,9 +10,10 @@ These are:
   * The CSS GUI sources 
   
 Documentations:
-  * Firmware: https://wiki.gsi.de/foswiki/bin/view/Epics/HadConMultipurposeControlsProtocolCmndApfel
-  * IOC - nya
-  * CSS - nya
+ * [HadCon2] (https://wiki.gsi.de/Epics/HadCon2)
+ * Firmware: [HadCon2 Protocol Apfel command](https://wiki.gsi.de/Epics/HadConMultipurposeControlsProtocolCmndApfel)
+ * IOC - nya
+ * CSS - nya
 
 Author: P.Zumbruch_at_gsi.de
 
