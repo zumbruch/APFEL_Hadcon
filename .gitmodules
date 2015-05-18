@@ -1,0 +1,12 @@
+[submodule "Firmware/HadCon2"]
+	path = Firmware/HadCon2
+	url = https://github.com/zumbruch/HadCon2.git
+	branch = APFEL
+[submodule "EPICS/IOC"]
+	path = EPICS/IOC
+	url = https://github.com/zumbruch/APFEL_Hadcon_IOC.git
+	branch = master
+[submodule "EPICS/CSS"]
+	path = EPICS/CSS
+	url = https://github.com/zumbruch/APFEL_Hadcon_CSS.git
+	branch = master
