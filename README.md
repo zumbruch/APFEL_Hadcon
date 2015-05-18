@@ -4,10 +4,14 @@ This project comprises all submodules which are necessary to control the APFEL A
 which itself is connected to a linux PC (Raspberry PI) running an EPICS IOC.
 
 These are:
-  * The HadCon2 (Atmel AVR) Firmware sources -> Firmware
+  * The HadCon2 (Atmel AVR) Firmware sources 
+     * &rArr; _Firmware/_
   * The EPICS IOC sources for StreamDev2/ASCII based access to the HadCon2
+     * &rArr; _EPICS/IOC/_
      * incl. the startup code for a procServ/crontab based automatic startup
-  * The CSS GUI sources 
+         * &rArr; ... 
+  * The CSS GUI sources
+     * &rArr; _EPICS/CSS/_  
   
 Documentations:
  * [HadCon2] (https://wiki.gsi.de/Epics/HadCon2)
