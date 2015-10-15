@@ -1,4 +1,4 @@
-##APFEL Hadcon - Controlling the APFEL via HadCon2
+##APFEL Hadcon - Controlling the APFEL with HadCon2 and EPICS
 
 This project comprises all submodules which are necessary to control the APFEL ASIC connected to an HadCon2 board,
 which itself is connected to a linux PC (Raspberry PI) running an EPICS IOC.
